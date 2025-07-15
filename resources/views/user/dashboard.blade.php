@@ -520,11 +520,19 @@ https://templatemo.com/tm-590-topic-listing
 
                         <ul class="site-footer-links">
                             <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Home</a>
+                                <a href="#" class="site-footer-link">Beranda</a>
                             </li>
 
                             <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Contact</a>
+                                <a href="#" class="site-footer-link">Kursus</a>
+                            </li>
+
+                            <li class="site-footer-link-item">
+                                <a href="#" class="site-footer-link">Tim Kami</a>
+                            </li>
+
+                            <li class="site-footer-link-item">
+                                <a href="#" class="site-footer-link">Kontak</a>
                             </li>
                         </ul>
                     </div>
